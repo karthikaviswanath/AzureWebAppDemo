@@ -14,6 +14,7 @@ namespace AzureWebAppDemo.Pages
 
         public void OnGet()
         {
+            throw new Exception("Testing ApplicationInsights !!!");
         }
     }
 }
